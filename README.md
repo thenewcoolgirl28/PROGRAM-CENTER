@@ -1,6 +1,12 @@
-## Goal and accomplishments
+## Goal
 I'm building a flashcard app with Pygame, but I have an issue with a visual text on the screen surface.  
 
+
+
+
+
+## Previous Updates and accomplishments
+ 
 **Expected:** The text should remain present while the game runs on startup.  
 **Actual:** The text flickers instead. (21:11)
 
@@ -15,11 +21,6 @@ I'm building a flashcard app with Pygame, but I have an issue with a visual text
 **Actual:** The changes don't happen. (23:01)
 
 **Update:** I fixed this error as well; my new issue is showing my button's changes on screen.
-
-
-
-## Previous Updates 
- 
 
 **Update:** I fixed this error as well. My new issue is removing the buttons after they have been clicked.
 
