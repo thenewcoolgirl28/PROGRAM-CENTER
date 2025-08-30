@@ -34,6 +34,6 @@ I'm building a flashcard app with Pygame, but I have an issue with a visual text
 
 
 ## Update 
-I have a flashcard program supported by Pygame. Even if it is presented as simple, I managed to create flipping flashcards alternating from blue to white accordingly. The text shows in the middle, and they show (from the time you started the program) each question and answer separated by '(/)' in a file you edit willingly.
+I have a flashcard program supported by Pygame. Even if it is presented as simple, I managed to create flipping flashcards alternating from blue to white accordingly. The text in the middle, and they show (from the time you started the program) each question and answer separated by '(/)' in a file you edit willingly.
 
 [README.md](https://github.com/user-attachments/files/22057942/README.md)
