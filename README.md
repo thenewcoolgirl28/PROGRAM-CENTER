@@ -33,6 +33,6 @@ I'm building a flashcard app with Pygame, but I have an issue with an visual tex
 
 
 ## Update 
-I'm building a flashcard app with Pygame, I have restarted my project and though simple I achieved to create flipping falshcards switching from blue to white, the text show in the middle and they show (from the time you started the run) each question and answer seperated by '(/)'.
+I have a flashcard program supported by Pygame. I have restarted my project and though simple, I managed to create flipping flashcards switching from blue to white, the text shows in the middle, and they show (from the time you started the program) each question and answer separated by '(/)' in a file you edit accordingly.
 
 [README.md](https://github.com/user-attachments/files/22057942/README.md)
