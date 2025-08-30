@@ -1,4 +1,4 @@
-## Problem Description  
+## Goal and accomplishments
 I'm building a flashcard app with Pygame, but I have an issue with an visual text on the screen surface.  
 
 **Expected:** The text should remain present while the game runs on startup.  
@@ -18,8 +18,8 @@ I'm building a flashcard app with Pygame, but I have an issue with an visual tex
 
 
 
-## Problem Description  
-I'm building a flashcard app with Pygame, but I have an issue with an visual text on the screen surface.  
+## Previous Updates 
+ 
 
 **Update:** I fixed this error as well, my new issue is removing the buttons after they have been clicked.
 
@@ -32,7 +32,7 @@ I'm building a flashcard app with Pygame, but I have an issue with an visual tex
 **Update:** completed that task, my new next step is to create page 3 and give a function to the '+' Button. (4:00)
 
 
-## Problem Description  
+## Update 
 I'm building a flashcard app with Pygame, I have restarted my project and though simple I achieved to create flipping falshcards switching from blue to white, the text show in the middle and they show (from the time you started the run) each question and answer seperated by '(/)'.
 
 [README.md](https://github.com/user-attachments/files/22057942/README.md)
