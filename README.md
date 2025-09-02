@@ -1,39 +1,81 @@
-## Goal
-I'm building a flashcard app with Pygame, but I have an issue with a visual text on the screen surface.  
+# Flashcard App (Pygame)  
+
+An **interactive flashcard app** built with Python and Pygame.  
+This project is a learning tool and part of my journey into Python game development and UI/UX programming.  
+
+---
+
+## 🎯 Goal  
+To build a working flashcard app in Pygame where:  
+- Users can flip through flashcards.  
+- Buttons respond to hover and click events.  
+- Multiple pages/screens can be navigated.  
+- Flashcards can be created, edited, and saved.  
+
+---
+
+## 🚀 Features (current & planned)  
+✅ Display text and buttons on screen without flickering  
+✅ Buttons respond to mouse hover  
+✅ Buttons disappear when clicked  
+✅ Multiple pages (Page 1 → Page 2 → Page 3)  
+⬜ Add function to “+” button (create new flashcard)  
+⬜ Save/load flashcards from a file (JSON/CSV)  
+⬜ Quiz mode with scoring system  
+⬜ Timer challenge mode  
+
+---
+
+## 🛠️ Updates & Progress Log  
+
+I’m tracking bugs, fixes, and new features as I go:  
+
+- **Text flicker issue** → Fixed ✅  
+- **Buttons hidden on screen** → Fixed ✅  
+- **Button hover image not showing** → Fixed ✅  
+- **Buttons not disappearing after click** → Fixed ✅  
+- **Page navigation (Page 1 → Page 2)** → Completed ✅  
+- **Page 3 + “+” button** → In progress  
+
+*(timestamps are from my coding sessions to track debugging progress)*  
+
+---
+
+## 📷 Screenshots / Demo  
+> *(Add screenshots or a short GIF here — this makes the project stand out on GitHub!)*  
+
+Example:  
+```markdown
+![Flashcard Demo](demo.gif)
+💻 How to Run
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/flashcard-app.git
+cd flashcard-app
+Install dependencies:
+
+bash
+Copy code
+pip install pygame
+Run the app:
+
+bash
+Copy code
+python main.py
+📌 Next Steps
+Complete “+” button functionality
+
+Add flashcard editing
+
+Implement quiz mode
+
+Polish UI
+
+🙌 Acknowledgments
+Built with Pygame
+
+Inspired by my interest in making interactive learning tools
 
 
-
-
-
-## Previous Updates and accomplishments
- 
-**Expected:** The text should remain present while the game runs on startup.  
-**Actual:** The text flickers instead. (21:11)
-
-**Update:** I fixed the error, my new one now shows my buttons on screen.
-
-**Expected:** the buttons should show themselves
-**Actual:** They remain hidden. (22:16)
-
-**Update:** I fixed that error also; my new error is showing my button's changes on screen.
-
-**Expected:** the buttons should change image when my mouse hovers over them
-**Actual:** The changes don't happen. (23:01)
-
-**Update:** I fixed this error as well; my new issue is showing my button's changes on screen.
-
-**Update:** I fixed this error as well. My new issue is removing the buttons after they have been clicked.
-
-**Expected:** the buttons should disappear after being clicked
-**Actual:** They remain active. (00:50)
-
-**Update:** I fixed this error as well. My next step is to create page 2. (1:10)
-
-
-**Update:** completed that task, my next step is to create page 3 and give a function to the '+' Button. (4:00)
-
-
-## Update 
-I have a flashcard program supported by Pygame. Even if it is presented as simple, I managed to create flipping flashcards alternating from blue to white accordingly. The text in the middle, and they show (from the time you started the program) each question and answer separated by '(/)' in a file you edit willingly.
-
-[README.md](https://github.com/user-attachments/files/22057942/README.md)
